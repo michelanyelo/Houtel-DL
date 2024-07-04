@@ -8,7 +8,7 @@
 
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+[![Sass](https://img.shields.io/badge/Sass-CC6699.svg?logo=sass&logoColor=white)](https://sass-lang.com/)
 
 ## 📁 Estructura del Proyecto
 
